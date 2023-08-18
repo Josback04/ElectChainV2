@@ -80,7 +80,7 @@ class NewVote extends StatelessWidget {
           //       return Obx(() => Container(
           //             margin: const EdgeInsets.all(5.0),
           //             decoration: BoxDecoration(
-          //
+          //ff
           //                 color: Colors.white,
           //                 borderRadius: BorderRadius.circular(10.0)),
           //             child: ListTile(
